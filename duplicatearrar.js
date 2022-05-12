@@ -12,3 +12,5 @@ function uniquearr(arr)
 }
 var arr = [1,2,1,3,2,3,4];
 console.log(uniquearr(arr))
+// hello
+// frfuruuuu
